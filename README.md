@@ -59,6 +59,9 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 - Sequelize
 - Nodemon
 - Handlebars
+- Bcrypt
+- Session
+- Connect-Session
 
 ### Contributors
 
