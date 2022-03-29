@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS m14_blog_db;
+CREATE DATABASE m14_blog_db;
