@@ -1,5 +1,13 @@
 # MVC_Tech-Blog
 
+## Table of Contents
+
+- [User Story](#user-story)
+- [Requirements](#requirements)
+- [Screenshot](#screenshot)f
+- [Technologies Used](#technologies-used)
+
+
 ## Summary
 
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well
